@@ -1,0 +1,76 @@
+body{
+    
+    background-image: url(https://lacasadepapel.withspotify.com/images/mobile-splash-bg.png);
+    background-attachment: scroll;
+    background-position: top center;
+}
+.mid{
+    width: 0 auto;
+    margin: 0 auto;
+    background:rgba(234, 240, 238, 0.1);
+}
+h1{
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    font-size: 48px;
+}
+#de{
+    color:black;
+    background-color: red;
+}
+p{
+    color: aliceblue;
+}
+li{
+    color:white ;
+}
+a{
+    color: rgb(12, 238, 23);
+}
+#Bella{
+    color: darkkhaki;
+    margin-left: 80px;
+    
+}
+th{
+    color: rgb(205, 240, 142);
+   
+}
+#a{
+    color:aqua ;
+    font-size: 20px;
+    font-weight: 400;
+}
+#b{
+    color: aqua;
+    font-size: 20px;
+    font-weight: 400;
+}
+#c{
+    color: aqua;
+    font-size: 20px;
+    font-weight: 400;
+}
+#d{
+    color: aqua;
+    font-size: 20px;
+    font-weight: 400;
+}
+#e{
+    color: rgb(228, 23, 33);
+   font-size: 30px;
+   font-weight: 600;
+}  
+img{
+    opacity: 50%;
+    border-radius: 15px;
+   
+}
+h3{
+    font-weight: 400;
+    color: blueviolet;
+}
+    
+
+
